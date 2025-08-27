@@ -1,0 +1,40 @@
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/glad/lap_ws/build/lap_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/arm_1.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/arm_2.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/base.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/end.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/laproholder.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/laproscope.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/servo_joint.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/meshes/stomach.STL
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/urdf/Trial1.SLDASM.csv
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/urdf/lap_arm.xacro.urdf
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/launch/display.launch.py
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/launch/gazebo.launch.py
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/ament_index/resource_index/package_run_dependencies/lap_description
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/ament_index/resource_index/parent_prefix_path/lap_description
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/environment/path.sh
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/environment/path.dsv
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/local_setup.bash
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/local_setup.sh
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/local_setup.zsh
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/local_setup.dsv
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/package.dsv
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/ament_index/resource_index/packages/lap_description
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/cmake/lap_descriptionConfig.cmake
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/cmake/lap_descriptionConfig-version.cmake
+-- Symlinking: /home/glad/lap_ws/install/lap_description/share/lap_description/package.xml
